@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ainguubaic.greys.works/sitemap.xml
